@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Домашка</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="age" translatable="false">Age</string>
+    <string name="country" translatable="false">Country</string>
+    <string name="city" translatable="false">City</string>
+    <string name="zapyataya" translatable="false">,</string>
+    <string name="avatar" translatable="false">avatar</string>
+</resources>
